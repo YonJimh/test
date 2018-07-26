@@ -1,3 +1,3 @@
 var a = require('./a')
 console.log(a)
-sdsa asdsadsa
+sdsa asdsadsa asd
