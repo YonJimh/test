@@ -1,3 +1,7 @@
 var a = require('./a')
 console.log(a)
-asdasdasdasdasd
+testtest
+asdasda
+sdasda
+asdasda
+asdas
